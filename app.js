@@ -94,7 +94,7 @@ function updateFlipClock() {
   function updateWeather() {
     // Simulate weather data
     document.getElementById('temperature').textContent = '24°C';
-    document.getElementById('location').textContent = 'New York, US';
+    document.getElementById('location').textContent = 'Colombo, Sri Lanka';
     document.getElementById('humidity').textContent = '65%';
     document.getElementById('wind').textContent = '12 km/h';
   }
